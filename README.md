@@ -2,6 +2,10 @@
 ```markdown
 # MK Bot
 
+![MK Bot](https://img.shields.io/badge/MK%20Bot-v1.0-brightgreen) 
+![Python](https://img.shields.io/badge/Python-3.8+-blue) 
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 Bienvenue dans le projet **MK Bot** ! Ce bot est conçu pour [ajoutez une brève description de la fonctionnalité principale, par exemple : "faciliter la gestion des tâches, fournir des réponses automatiques, etc."].
 
 ## Table des matières
@@ -35,18 +39,18 @@ Pour accéder à la fonctionnalité de pairing, veuillez visiter le lien suivant
 
 ## Retour d'expérience
 
-Nous apprécions vos retours d'expérience ! N'hésitez pas à nous faire part de vos commentaires et suggestions via notre formulaire de feedback : [Formulaire de feedback](https://example.com/formulaire).
+Nous apprécions vos retours d'expérience ! N'hésitez pas à nous faire part de vos commentaires et suggestions via notre [formulaire de feedback](https://example.com/formulaire). ![Feedback](https://img.shields.io/badge/Feedback-welcome-yellowgreen)
 
 ## Téléchargement
 
 Pour télécharger les fichiers nécessaires, cliquez sur le lien ci-dessous :
 
-- [Télécharger le fichier](https://example.com/download)
+- [Télécharger le fichier](https://example.com/download) ![Download](https://img.shields.io/badge/Download-available-blue)
 
 ## Contact
 
-Pour toute question ou demande, vous pouvez contacter le propriétaire du bot sur WhatsApp au : [+243829465643](https://wa.me/243829465643).
+Pour toute question ou demande, vous pouvez contacter le propriétaire du bot sur WhatsApp au : [+243829465643](https://wa.me/243829465643). ![WhatsApp](https://img.shields.io/badge/Contact-WhatsApp-green)
 
 ## Remerciements
 
-Merci à tous ceux qui ont contribué à ce projet ! Votre soutien est grandement apprécié.
+Merci à tous ceux qui ont contribué à
